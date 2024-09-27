@@ -1,0 +1,27 @@
+{
+  "name": "discordjs-template-bot",
+  "version": "1.0.0",
+  "description": "DiscordJS Bot template made to ease bot creation/setups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FastDzemal8/DiscordJS-Bot-Template.git"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "FastDzemal",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/FastDzemal8/DiscordJS-Bot-Template/issues"
+  },
+  "homepage": "https://github.com/FastDzemal8/DiscordJS-Bot-Template#readme",
+  "dependencies": {
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.6.1"
+  }
+}
